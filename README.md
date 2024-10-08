@@ -1,4 +1,4 @@
-This project is a simple web app that fetches and displays Pokémon images using HTML, CSS, and JavaScript. It leverages the [PokéAPI](https://pokeapi.co/) to retrieve Pokémon data and dynamically displays the images on the page.
+This is a simple web page that fetches and displays Pokémon images using HTML, CSS, and JavaScript. It leverages the [PokéAPI](https://pokeapi.co/) to retrieve Pokémon data and dynamically displays the images on the page.
 
  ## Features
  
